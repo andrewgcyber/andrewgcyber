@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/andrewgcyber/">Andrew Gay</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and continuously expanding my skills through hands-on projects. My portfolio showcases work in areas such as vulnerability management, threat detection, security operations, and system administration. Each project reflects my commitment to practical learning, problem-solving, and building solutions that strengthen security. Feel free to explore my repositories and follow my journey as I continue growing in cybersecurity.
 
 
 ## ⚠️ Vulnerability Management Projects
